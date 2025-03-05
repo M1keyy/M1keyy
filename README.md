@@ -62,10 +62,4 @@
   <img height="150" src="https://mikeydev.netlify.app/assets/SproutWalking-DMPaQfJU.gif"  />
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/M1keyy/M1keyy/output/snake.svg" alt="Snake animation" />
-
-###
