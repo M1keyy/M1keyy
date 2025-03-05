@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"><i>"I'm a software engineer passionate about building all kinds of software—especially if it does something <b>incredible</b> or <b>unconventional</b>. I've worked on <b>web applications</b>, <b>systems</b> that <b>optimize</b> internal processes, <b>mobile apps</b>, <b>IoT</b> solutions, and even <b>video games</b>."</i><br><br>Take a look to my web page: <a href="https://mikeydev.netlify.app/"><u>https://mikeydev.netlify.app/</u></a></p><br>
+<p align="left"><i>"I'm a software engineer passionate about building all kinds of software—especially if it does something <b>incredible</b> or <b>unconventional</b>. I've worked on <b>web applications</b>, <b>systems</b> that <b>optimize</b> internal processes, <b>mobile apps</b>, <b>IoT</b> solutions, and even <b>video games</b>."</i><br><br>Take a look on my <a href="https://mikeydev.netlify.app/">website</a> 🥶</p><br>
 
 ###
 
@@ -52,8 +52,8 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="mailto:miguel.alcantar@cetys.edu.mx"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
+  <a href="https://www.linkedin.com/in/miguel-alcantar-8ab6a6266/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 </div>
 
 ###
