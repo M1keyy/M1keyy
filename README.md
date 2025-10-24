@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"><i>"I'm a software engineer passionate about building all kinds of software—especially if it does something <b>incredible</b> or <b>unconventional</b>. I've worked on <b>web applications</b>, <b>systems</b> that <b>optimize</b> internal processes, <b>mobile apps</b>, <b>IoT</b> solutions, and even <b>video games</b>."</i><br><br>Take a look on my <a href="https://mikeydev.netlify.app/">website</a> 🥶</p><br>
+<p align="left"><i>"I'm a software engineer passionate about building all kinds of software—especially if it does something <b>incredible</b> or <b>unconventional</b>. I've worked on <b>web applications</b>, <b>systems</b> that <b>optimize</b> internal processes, <b>mobile apps</b>, <b>IoT</b> solutions, and even <b>video games</b>."</i><br><br>Take a look on my <a href="https://mikeydev.netlify.app/">website</a> 🥶</p>
 <p>My <i>chamba</i> account <a href="https://github.com/MiguelMiniDev">here</a></p>
 
 ###
